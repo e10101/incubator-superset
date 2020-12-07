@@ -255,6 +255,14 @@ First, be sure you are using recent versions of NodeJS and npm. Using [nvm](http
 
 Install third-party dependencies listed in `package.json`:
 
+```
+# Set taobao mirror.
+npm config set registry https://registry.npm.taobao.org
+
+# Debug output.
+npm config set loglevel=verbose
+```
+
 ```bash
 # From the root of the repository
 cd superset/assets
