@@ -3,6 +3,12 @@
 Contributions are welcome and are greatly appreciated! Every
 little bit helps, and credit will always be given.
 
+## More
+
+```
+pip install setuptools==45
+```
+
 ## Table of Contents
 
 - [Types of Contributions](#types-of-contributions)
